@@ -1,7 +1,9 @@
 # KING-HAKIM
 This is paid 
 
-git clone https://github.com/Hakimraj/KING-HAKIM
+
+git clone
+https://github.com/Hakimraj/KING-HAKIM
 
 cd KING-HAKIM
 
